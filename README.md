@@ -4,6 +4,8 @@ I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome 
 
 [LinkedIn](https://www.linkedin.com/in/francisco-macedo-9046841a0/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### My Music:
