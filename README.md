@@ -1,4 +1,4 @@
-### Hallooo! 👋
+### Hallooo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome to my GitHub profile :)
 
