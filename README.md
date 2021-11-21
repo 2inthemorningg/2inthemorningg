@@ -1,6 +1,8 @@
 ### Hallooo! 👋
 
-My work:  [LinkedIn](https://www.linkedin.com/in/francisco-macedo-9046841a0/)
+I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome to my GitHub profile :)
+
+[LinkedIn](https://www.linkedin.com/in/francisco-macedo-9046841a0/)
 
 ---
 
