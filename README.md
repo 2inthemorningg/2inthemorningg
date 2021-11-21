@@ -1,11 +1,12 @@
 ### Hallooo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome to my GitHub profile :)
+You can find me on [![LinkedIn][1.2]][1], or on [![GitHub][3.2]][3].
 
 <!-- Icons -->
 
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[1.2]: https://cdn-icons-png.flaticon.com/512/25/25231.png
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[2.2]: https://cdn-icons-png.flaticon.com/512/25/25231.png
 
 <!-- Links -->
 
