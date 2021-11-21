@@ -5,7 +5,9 @@ I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome 
 <a href="https://www.linkedin.com/in/francisco-macedo-9046841a0/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://github.com/2inthemorningg"><img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2inthemorningg&layout=compact)
+-->
 
 ---
 
