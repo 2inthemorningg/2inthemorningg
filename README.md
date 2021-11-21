@@ -18,9 +18,3 @@ I've been playing instruments since I was 3 years old. When I became 15, I start
 <a href="https://open.spotify.com/artist/05JKQA0JmX9tVRd61xtyM1"><img height="30" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png"></a>
 <a href="https://soundcloud.com/shyguymakesmusic"><img height="30" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/soundcloud.png"></a>
 <a href="https://linktr.ee/shyguymusic"><img height="30" src="https://img.icons8.com/color/480/linktree.png"></a>
-
----
-
-### Tools:
-
-Here are some tools I'm familiar with:
