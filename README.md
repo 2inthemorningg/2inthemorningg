@@ -2,7 +2,15 @@
 
 I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome to my GitHub profile :)
 
-[LinkedIn](https://www.linkedin.com/in/francisco-macedo-9046841a0/)
+<!-- Icons -->
+
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[1.2]: https://cdn-icons-png.flaticon.com/512/25/25231.png
+
+<!-- Links -->
+
+[1]: https://www.linkedin.com/in/francisco-macedo-9046841a0/
+[2]: https://github.com/2inthemorningg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2inthemorningg&layout=compact)]
 
