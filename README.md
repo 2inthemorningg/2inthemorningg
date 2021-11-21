@@ -1,7 +1,8 @@
 ### Hallooo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome to my GitHub profile :)
-You can find me on [![LinkedIn][1.2]][1], or on [![GitHub][3.2]][3].
+
+[LinkedIn](https://www.linkedin.com/in/francisco-macedo-9046841a0/)
 
 <!-- Icons -->
 
