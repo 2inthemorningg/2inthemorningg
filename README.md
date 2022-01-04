@@ -3,7 +3,7 @@
 I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome to my GitHub profile :)
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/francisco-macedo-9046841a0/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/fcallanam/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/2inthemorningg"><img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
 </p>
   
