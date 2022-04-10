@@ -15,7 +15,7 @@ I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome 
 
 ### My Music:
 
-I've been playing instruments since I was 3 years old. When I became 15, I started developing a passion for the EDM (Electronic and Dance Music) industry. Since then, I've been producing and releasing music. The links are below, in case you are interested :)
+I've been playing instruments since I was 4 years old. When I became 15, I started developing a passion for the EDM (Electronic and Dance Music) industry. Since then, I've been producing and releasing music. The links are below, in case you are interested :)
 
 <p align='center'>
 <a href="https://open.spotify.com/artist/05JKQA0JmX9tVRd61xtyM1"><img height="30" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png"></a>&nbsp;&nbsp;&nbsp;
