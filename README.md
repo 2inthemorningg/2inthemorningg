@@ -2,6 +2,7 @@
 
 I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome to my GitHub profile :)
 
+<!--
 <p align='center'>
 <a href="https://www.linkedin.com/in/fcallanam/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/fcallanam"><img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
@@ -22,3 +23,6 @@ I've been playing instruments since I was 4 years old. When I became 15, I start
 <a href="https://soundcloud.com/beforedot"><img height="30" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/soundcloud.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://beforedot.github.io"><img height="30" src="https://img.icons8.com/color/480/linktree.png"></a>
 </p>
+-->
+
+All info on my website :)
