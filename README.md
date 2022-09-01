@@ -22,7 +22,6 @@ I've been playing instruments since I was 4 years old. When I became 15, I start
 <a href="https://open.spotify.com/artist/3GNg7ORnxVvYKiBWYyqC1W?si=z1iVNjINR_--A4ZLPWLYOQ"><img height="30" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Spotify_icon-icons.com_66783.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://soundcloud.com/beforedot"><img height="30" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/soundcloud.png"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://beforedot.github.io"><img height="30" src="https://img.icons8.com/color/480/linktree.png"></a>
-</p>
--->
+</p> -->
 
 All info on my website :)
