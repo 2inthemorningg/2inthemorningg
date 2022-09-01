@@ -8,9 +8,8 @@ I'm Francisco, I'm a Computer Science Student at University of Coimbra. Welcome 
 <a href="https://github.com/fcallanam"><img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
 </p>
   
-<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2inthemorningg&layout=compact)
--->
+
 
 ---
 
